@@ -1,0 +1,1 @@
+Open Browser    https://lcaas.techmahindra.com/vbnet/login    ${BROWSER},Input Text    //input[@id="Uname"]    demouser,Input Text    //input[@id="Upwd"]    demouser1,Click Element    //button[@id="loginBtn"]

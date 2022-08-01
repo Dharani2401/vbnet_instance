@@ -1,0 +1,1 @@
+{"appName": "vbnet", "scenarioName": "a11", "test_Description": "1.Open browser and navigate to URL : <br>\"https://lcaas.techmahindra.com/vbnet/login<br>2. Enter the value 'demouser' in the field.<br>3. Enter the value 'demouser1' in the field.<br>4. Click on 'Login'.<br>", "path": "D:\\iTAP\\recorded_scenarios\\vbnet", "innerpath": "D:\\iTAP\\recorded_scenarios\\vbnet\\a11"}
